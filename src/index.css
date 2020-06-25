@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.hello{
+    padding: 10px;
+    color: white;
+    background-color: red;
+}
+/* .user{
+    coler: white;
+    background-color: green;
+} */
+/* .other{
+  coler: white;
+  background-color: yellow;
+} */
+.ToggleButton{
+  margin: 20px;
+  padding: 10px;
+  background-color: green;
+  color: white;
+  width: 150px;
+}
+.red{
+  background: red;
+  color: white;
+}
+.blue{
+  background: blue;
+  color: white;
+}
